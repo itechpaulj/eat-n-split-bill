@@ -47,5 +47,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 **Note: Create this project for eat and split a split**
+
 **Used:Version React v18**
 
